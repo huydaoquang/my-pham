@@ -12,12 +12,10 @@ import ProductDetailContent3 from "./components/mainContent/ProductDetailContent
 import ProductDetailContent4 from "./components/mainContent/ProductDetailContent4";
 import ProductDetailContent5 from "./components/mainContent/ProductDetailContent5";
 import LinkContent from "./components/mainContent/LinkContent";
-import YoutubeSearch from "./components/mainContent/YoutubeSearch";
 import Home from "./components/mainContent/Home";
 // import { SearchData } from "./components/mainContent/SearchData";
 // import { SearchProduct } from "./components/mainContent/SearchProduct";
 // import Navbar from "./components/mainContent/navbar";
-import ClipLoader from "react-spinners/ClipLoader";
 import { useState, useEffect } from "react";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
